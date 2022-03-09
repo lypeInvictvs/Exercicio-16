@@ -9,8 +9,8 @@ import java.lang.Math;
 //Informe ao usuario a quantidades de latas de tinta a serem compradas e o preço total.
 
 public class LojaPintura {
+	
 	static final double COBERTURA_DA_TINTA_EM_METROS_QUADRADOS = 3; // Cobertura da tinta é de 1 litro para cada 3
-																	// metros quadrados
 	static final double LITRAGEM_DA_LATA_DE_TINTA = 18; // Cada lata tem 18 litros
 	static final double PRECO_DA_LATA_DE_TINTA = 80; // Preço da lata de tinta
 
